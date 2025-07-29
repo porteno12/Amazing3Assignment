@@ -1,0 +1,8 @@
+C:\Users\Ronny\source\repos\UnitTestingArray\UnitTestingArray\bin\Debug\UnitTestingArray.pdb
+C:\Users\Ronny\source\repos\UnitTestingArray\UnitTestingArray\obj\Debug\UnitTestingArray.csproj.AssemblyReference.cache
+C:\Users\Ronny\source\repos\UnitTestingArray\UnitTestingArray\obj\Debug\UnitTestingArray.csproj.CoreCompileInputs.cache
+C:\Users\Ronny\source\repos\UnitTestingArray\UnitTestingArray\obj\Debug\UnitTestingArray.pdb
+C:\Users\Ronny\source\repos\UnitTestingArray\UnitTestingArray\bin\Debug\UnitTestingArray.exe.config
+C:\Users\Ronny\source\repos\UnitTestingArray\UnitTestingArray\bin\Debug\UnitTestingArray.exe
+C:\Users\Ronny\source\repos\UnitTestingArray\UnitTestingArray\obj\Debug\UnitTestingArray.exe
+C:\Users\Ronny\source\repos\UnitTestingArray\UnitTestingArray\obj\Debug\UnitTestingArray.exe.config
